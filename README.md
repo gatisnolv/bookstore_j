@@ -1,0 +1,1 @@
+# Cleaned up new Java 21 Spring Boot project with h2 db dependency 
